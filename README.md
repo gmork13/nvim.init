@@ -1,0 +1,2 @@
+# nvim.init
+nvim.init
